@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{28F668DE-8E0B-4E71-9EE5-68599BC3DD59}|Muruwari-Lang">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Muruwari-Lang/Services/TranslationService.cs">
+    <Files>
+      <File FileName="Muruwari-Lang/Pages/Index.razor" Line="3" Column="38" />
+      <File FileName="Muruwari-Lang/Services/TranslationService.cs" Line="16" Column="10" />
+      <File FileName="Muruwari-Lang/Models/TranslationModel.cs" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Muruwari-Lang" expanded="True">
+            <Node name="Muruwari-Lang" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Muruwari-Lang PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

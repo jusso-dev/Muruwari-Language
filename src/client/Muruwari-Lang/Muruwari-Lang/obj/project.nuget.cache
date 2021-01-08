@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdBtuNx3PLZYHYzM3wZiH8w3of2AW4julA6+33XMpydUs8Rh5IfxAKpSSm+Yfr0XPTunVgeyOynAtkJ89U4VzA==",
+  "success": true,
+  "projectFilePath": "/Users/justinmiddler/Documents/code-projects/Muruwari-Language/src/client/Muruwari-Lang/Muruwari-Lang/Muruwari-Lang.csproj",
+  "expectedPackageFiles": [
+    "/Users/justinmiddler/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
